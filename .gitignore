@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.sqlite3
+*.db
+*.egg-info/
+*.egg
+*.DS_Store
+
+# Virtual environments
+venv/
+.env/
+
+# Termux temp/cache
+*.log
